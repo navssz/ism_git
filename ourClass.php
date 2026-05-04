@@ -50,6 +50,10 @@ function helloNeptune(){
     {
         echo "this is from Arne";
     }
+    public function thisIsfromNav()
+    {
+        echo "Nav here";
+    }
 
     public function getICount()
     {
